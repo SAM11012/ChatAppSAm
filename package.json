@@ -15,7 +15,7 @@
     "eslint-config-next": "13.4.8",
     "firebase": "^9.23.0",
     "git": "^0.1.5",
-    "next": "13.4.8",
+    "next": "^13.4.8",
     "postcss": "8.4.24",
     "react": "18.2.0",
     "react-click-away-listener": "^2.2.3",
